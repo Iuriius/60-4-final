@@ -1,17 +1,9 @@
+import {Form} from '../../components/Form/Form'
 
-// import { getUserInfo } from 'service/service';
 export const Home = () => {
-  /*
-    /**|======================================
-    /**| 
-    /**|======================================
-    */
-
-
   return (
     <>
-      <p>HOME</p>
-      
+      <Form/> 
     </>
   );
 };
